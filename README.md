@@ -34,3 +34,5 @@ git 切换
 git merge --no-ff
 
 git push origin develop
+
+![image](https://https://github.com/tang-world/GithubCheckoutMethod/blob/main/git思维导图.png)
